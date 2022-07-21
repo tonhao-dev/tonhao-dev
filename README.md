@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luís Antônio</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Acre</h3>
 
 - 🔭 I’m currently working on [Usabit Global](https://usabit.com.br/)
 
