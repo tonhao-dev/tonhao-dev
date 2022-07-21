@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **luis.developer.ac@gmail.com**
 
-- 📄 Know about my experiences [Frontend developer with focus in user experience](Frontend developer with focus in user experience)
+- 📄 Know about my experiences [React | React Native Developer](https://www.linkedin.com/in/lu%C3%ADs-ant%C3%B4nio-lima-santiago-019a25170/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
