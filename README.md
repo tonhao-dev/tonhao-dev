@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Usabit Global](https://usabit.com.br/)
 
-- 🌱 I’m currently learning **Automatized tests, React Query and CI/CD for mobile apps**
+- 🌱 I’m currently learning **Automatized tests, observability and CI/CD for web applications**
 
-- 💬 Ask me about **React, React Native, Typescript and functional programming**
+- 💬 Ask me about **React, Next.js, Typescript and functional programming**
 
 - 📫 How to reach me **luis.developer.ac@gmail.com**
 
