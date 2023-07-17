@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luís Antônio, Tonhão Dev</h1>
 <h3 align="center">A passionate frontend developer from Acre/Brazil</h3>
 
-- 🔭 I’m currently working on [MB Labs]([https://usabit.com.br/](https://mblabs.com.br/)
+- 🔭 I’m currently working on [MB Labs](https://mblabs.com.br/)
 
 - 🌱 I’m currently learning **Automatized tests, observability and CI/CD for web applications**
 
