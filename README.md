@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luís Antônio, Tonhão Dev</h1>
 <h3 align="center">A passionate frontend developer from Acre/Brazil</h3>
 
-- 🔭 I’m currently working on [Techbiz Forense Digital]([https://mblabs.com.br/](https://techbiz.com.br/))
+- 🔭 I’m currently working on [Techbiz Forense Digital](https://techbiz.com.br/)
 
 - 🌱 I’m currently learning **Software architecture and cyber security**
 
